@@ -1,0 +1,1 @@
+# angular-internationalization-i18n-with-ngx-translate
